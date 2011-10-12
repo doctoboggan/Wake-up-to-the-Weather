@@ -1,0 +1,5 @@
+This is a simple script that will send an email to your phone's text address every time it is run. Make sure to go through the script and fill in all your information so it runs properly.
+
+I suggest using cron to run this every morning at the time you usually wake up.
+
+(I know there are services for this, but where is the fun in that?)
